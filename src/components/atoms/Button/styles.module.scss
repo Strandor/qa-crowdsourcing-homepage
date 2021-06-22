@@ -1,0 +1,18 @@
+.button {
+	padding: 0em 1.5em;
+	border: 0;
+	border-radius: 50px;
+	font-size: 0.8rem;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	margin: 1em;
+
+	img {
+		margin-right: 0.5em;
+	}
+
+	:hover {
+		opacity: 0.8;
+	}
+}
