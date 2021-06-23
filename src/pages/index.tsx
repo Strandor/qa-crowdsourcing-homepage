@@ -10,7 +10,7 @@ const Index = () => {
 				<Component.Atoms.Layouts.SplitScreen
 					leftSide={
 						<>
-							<h1>Skemmtilegt spurningarapp</h1>
+							<h1>Skemmtilegur spurningaleikur</h1>
 							<h4>
 								Spurningar.is er glænýr spurningaleikur á netinu sem snýst um að
 								setja fram og svara spurningum. Því fleiri spurningar og svör

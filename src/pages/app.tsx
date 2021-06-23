@@ -6,8 +6,8 @@ const App = () => {
 		<>
 			<Components.Atoms.Layouts.PaddingWrapper backgroundColor="#8950fc">
 				<Components.Atoms.Layouts.CenteredWrapper>
-					<h1>Sóttu appið í dag</h1>
-					<h4>Taktu þátt í að styðja íslensku</h4>
+					<h1>Náðu í appið</h1>
+					<h4>Taktu þátt í að móta framtíð íslenskunnar</h4>
 				</Components.Atoms.Layouts.CenteredWrapper>
 			</Components.Atoms.Layouts.PaddingWrapper>
 			<Components.Atoms.Layouts.PaddingWrapper backgroundColor="white">
@@ -19,8 +19,7 @@ const App = () => {
 					}
 					leftSide={
 						<>
-							<h1>Við erum allstaðar</h1>
-							<h4>Hvar sem þú vilt spila þá geturu spilað</h4>
+							<h1>Spilaðu í þínu tæki</h1>
 							<a href="https://play.google.com/store/apps/details?id=com.spurningaris.Spurningar">
 								<Components.Atoms.Button>Android</Components.Atoms.Button>
 							</a>

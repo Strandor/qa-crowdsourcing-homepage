@@ -5,8 +5,7 @@ const Team = () => {
 		<>
 			<Components.Atoms.Layouts.PaddingWrapper backgroundColor="#8950fc">
 				<Components.Atoms.Layouts.CenteredWrapper>
-					<h1>Þetta er liðið</h1>
-					<h4>Margt fallegt fólk kom við þróun leiksins</h4>
+					<h1>Teymið okkar</h1>
 				</Components.Atoms.Layouts.CenteredWrapper>
 			</Components.Atoms.Layouts.PaddingWrapper>
 			<Components.Atoms.Layouts.PaddingWrapper backgroundColor="white">

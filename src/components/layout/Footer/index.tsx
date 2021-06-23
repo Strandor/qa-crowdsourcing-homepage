@@ -8,7 +8,7 @@ const Footer = () => {
 	return (
 		<div className={styles.outer}>
 			<div>
-				<h2>Takktu þátt</h2>
+				<h2>Taktu þátt</h2>
 				<Link href="/app">
 					<a>
 						<Atoms.Button>Náðu í appið</Atoms.Button>

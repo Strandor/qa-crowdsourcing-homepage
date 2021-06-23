@@ -23,7 +23,7 @@ const Header = () => {
 				</div>
 				<div>
 					<Link href="/about">
-						<p>Um_okkur</p>
+						<p>Nánar</p>
 					</Link>
 				</div>
 			</div>
