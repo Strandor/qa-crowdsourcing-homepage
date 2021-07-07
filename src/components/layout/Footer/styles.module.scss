@@ -22,6 +22,15 @@
 	}
 }
 
+.socials {
+	display: inline-flex;
+	margin-top: 20px;
+
+	a:not(:first-child) {
+		margin-left: 20px;
+	}
+}
+
 .download * {
 	margin: auto 0.5em;
 }

@@ -1,0 +1,12 @@
+@import "../../../styles/abstracts/variables";
+
+.countdown {
+	background-color: $highlight;
+	height: 80px;
+	width: 60px;
+	border-radius: 10px;
+	margin: auto 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

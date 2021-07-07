@@ -22,8 +22,8 @@ const Header = () => {
 					</Link>
 				</div>
 				<div>
-					<Link href="/about">
-						<p>Nánar</p>
+					<Link href="/stream">
+						<p>Streymið</p>
 					</Link>
 				</div>
 			</div>

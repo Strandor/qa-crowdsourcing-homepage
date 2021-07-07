@@ -14,6 +14,17 @@ const Footer = () => {
 						<Atoms.Button>Náðu í appið</Atoms.Button>
 					</a>
 				</Link>
+				<div className={styles.socials}>
+					<a href="https://twitter.com/SpurningarI">
+						<img src="/icons/iconmonstr-twitter-1.svg" />
+					</a>
+					<a href="https://instagram.com/spurningar.is_app">
+						<img src="/icons/iconmonstr-instagram-11.svg" />
+					</a>
+					<a href="https://facebook.com/spurningar.is">
+						<img src="/icons/iconmonstr-facebook-4.svg" />
+					</a>
+				</div>
 			</div>
 			<div className={styles.links}>
 				<div>
@@ -28,13 +39,10 @@ const Footer = () => {
 							<p>Appið</p>
 						</a>
 					</Link>
-					<Link href="/team">
+					<Link href="/stream">
 						<a>
-							<p>Teymið</p>
+							<p>Streymið</p>
 						</a>
-					</Link>
-					<Link href="/about">
-						<a>Um okkur</a>
 					</Link>
 				</div>
 				<div>
@@ -53,6 +61,17 @@ const Footer = () => {
 						<a>
 							<p>Vafrakökur</p>
 						</a>
+					</Link>
+				</div>
+				<div>
+					<h3>Spurningar</h3>
+					<Link href="/team">
+						<a>
+							<p>Teymið</p>
+						</a>
+					</Link>
+					<Link href="/about">
+						<a>Um okkur</a>
 					</Link>
 				</div>
 			</div>
